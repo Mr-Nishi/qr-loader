@@ -1,0 +1,6 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pbjs","time":"2022-09-11T15:05:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pbts","time":"2022-09-11T15:05:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pino","time":"2022-09-11T15:05:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/qrcode-terminal","time":"2022-09-11T15:05:53Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbjs","time":"2022-09-11T15:05:54Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/libsignal/node_modules/.bin/pbts","time":"2022-09-11T15:05:54Z"}
